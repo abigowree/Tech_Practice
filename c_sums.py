@@ -15,6 +15,7 @@ print("Reversed list:", reversed_list)
 # Create a function find_max(numbers) that accepts a list of numbers and returns the largest number. Do not use the built-in max() function.
 # Sample input: ``
 # Sample output: 10 
+
 # 3. Count occurrences
 # Write a function count_element(input_list, element) that counts how many times a given element appears in input_list.
 # Sample input: input_list = [5, 2, 5, 8, 5, 1], element = 5
